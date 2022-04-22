@@ -1,0 +1,37 @@
+body {
+	background: url('../images/sunflowers.jpg');
+	background-position: center;
+	background-attachment: fixed;
+	-webkit-background-size: cover; 
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	padding: 15px;
+}
+
+#container {
+	background: black;
+	width:  450px;
+	color: white;
+	padding: 50px;
+}
+
+h1{
+	font-size: 80px;
+	font-family: 'Source Code Pro', monospace;
+}
+
+h2{
+	background: #EAB58D;
+	color: black;
+	padding:  5px;
+	border-radius:  10px;
+	width: 350px;
+	font-family: 'Source Code Pro', monospace;
+}
+
+a{
+	color: #ACCBB9;
+	text-decoration: none;
+
+}
